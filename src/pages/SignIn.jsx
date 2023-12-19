@@ -35,7 +35,7 @@ function SignIn() {
             <div className="p-lg-5 p-1 d-flex flex-column justify-content-center align-items-center h-100">
                 <form className="form bg-light p-lg-3 p-2 shadow-lg col-lg-4 col-12 rounded-3" onSubmit={connexion}>
                     <h3 className="text-center"> Connexion </h3>
-                    <h6> Bienvenue sur notre site Web </h6>
+                    <h6> Bienvenue </h6>
                     <p> Pour vous connecter, veuillez saisir vos informations d'identification ci-dessous. </p>
                     <div className="mb-3">
                         <input type="email" name="email" id="email" className="form-control" placeholder="Adresse email" />
